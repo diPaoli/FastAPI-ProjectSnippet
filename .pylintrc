@@ -1,0 +1,12 @@
+[MESSAGES CONTROL]
+; disable=
+
+# List of note tags to take in consideration, separated by a comma.
+[MISCELLANEOUS]
+notes=XXX
+
+[MASTER]
+extension-pkg-whitelist=pydantic
+
+[FORMAT]
+max-line-length=110
